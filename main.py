@@ -310,7 +310,7 @@ if "quote" in st.session_state:
         st.markdown(
             f"""
             <div class="explanation-container">
-                <h3>Illumination</h3>
+                <h3>Explained</h3>
                 <p>{st.session_state.explanation}</p>
             </div>
             """,
