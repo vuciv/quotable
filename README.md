@@ -27,7 +27,7 @@ The app already includes an OpenAI API key for demonstration purposes.
 
 ## Screenshot
 
-![App Screenshot](screenshot.png)
+<img width="717" alt="Screenshot 2025-04-18 at 9 02 56 AM" src="https://github.com/user-attachments/assets/d705976c-dd2e-4601-9445-37dcac79970c" />
 
 ## License
 
